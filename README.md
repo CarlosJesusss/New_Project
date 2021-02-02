@@ -90,7 +90,7 @@
 
 
         @*<div class="copy-right">
-                <p>&copy; 2020 Snow Login Form. All rights reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3Layouts</a></p>
+                <p>&copy; 2021 Snow Login Form. All rights reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3Layouts</a></p>
             </div>*@
     </section>
 </body>
